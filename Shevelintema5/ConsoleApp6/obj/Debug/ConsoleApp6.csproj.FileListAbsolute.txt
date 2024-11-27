@@ -1,0 +1,14 @@
+C:\Users\filat\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\filat\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\filat\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\filat\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+C:\Users\filat\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\filat\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\filat\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
+C:\Users\Luv$hen\Desktop\TEMKA5-main\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\Luv$hen\Desktop\TEMKA5-main\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\Luv$hen\Desktop\TEMKA5-main\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\Luv$hen\Desktop\TEMKA5-main\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+C:\Users\Luv$hen\Desktop\TEMKA5-main\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\Luv$hen\Desktop\TEMKA5-main\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\Luv$hen\Desktop\TEMKA5-main\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
